@@ -14,7 +14,7 @@
 |plumber|Allows to don't stop the flow in a case of error|
 |concat|assemble files|
 
-  1.  Make sure you have gulp install localy, if not : `npm install gulp`
+  1.  Make sure you have gulp install localy, if not : `npm install -g gulp`
   2. Start install with the command : `npm install`
   3. Launching the watcher script :`gulp`
   4. Launching the build script : the only files that matter.
